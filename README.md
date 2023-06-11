@@ -17,6 +17,6 @@
 <h3><img src='assets/images/connect.png' width="23px"> &nbsp;Connect with me </h3>
 <a href = 'https://www.linkedin.com/in/skundalwal/'> <img width = '32px' align= 'center' src="assets/images/linkedIn.svg"/></a> 
 <a href = 'https://twitter.com/SKundalwal'> <img width = '32px' align= 'center' src="assets/images/twitter.svg"/></a> 
-<a href = 'https://www.instagram.com/sandeep_kundalwal/'> <img width = '32px' align= 'center' src="assets/images/instagram.png"/></a>
+<a href = 'https://www.instagram.com/sandeep_kundalwal/'> <img width = '32px' align= 'center' src="assets/images/Instagram.png"/></a>
 <a href = 'https://leetcode.com/SKundalwal/'> <img width = '32px' align= 'center' src="assets/images/leetcode.png"/></a> 
 <a href = 'https://github.com/SKundawal'> <img width = '32px' align= 'center' src="assets/images/github.svg"/></a>
