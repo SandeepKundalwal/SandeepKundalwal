@@ -1,11 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://github.com/SKundawal/SKundawal/assets/61798659/9dc52849-7b86-4a39-b595-2bb8d53e8f38" width="30px">, I'm Sandeep Kundalwal</h1>
 
 <!--
 **SKundawal/SKundawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🎓 I’m currently a Computer Science & Engineering student doing M.Tech from IIT Mandi ✨
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
