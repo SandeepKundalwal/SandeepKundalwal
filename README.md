@@ -23,6 +23,8 @@
 <a href= https://github.com/SKundalwal?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='assets/images/c.svg'> </a>
 <a href= https://github.com/SKundalwal?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='assets/images/cpp.svg'> </a>
 <a href= https://github.com/SKundalwal?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='assets/images/csharp.svg'> </a>
+<a href= https://github.com/SKundalwal?tab=repositories&q=&type=&language=unity&sort= > <img width ='29px' src ='assets/images/unity.svg'> </a> 
+  
 
 <h3><img src='assets/images/connect.png' width="23px"> &nbsp;Connect With Me </h3>
 <a href = 'https://www.linkedin.com/in/skundalwal/'> <img width = '32px' align= 'center' src="assets/images/linkedIn.svg"/></a> 
