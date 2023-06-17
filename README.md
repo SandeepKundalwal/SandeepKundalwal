@@ -26,7 +26,7 @@
 <a href= https://github.com/SKundalwal?tab=repositories&q=&type=&language=unity&sort= > <img width ='29px' src ='assets/images/unity.svg'> </a> 
   
 
-<h3><img src='assets/images/connect.png' width="23px"> &nbsp;Connect With Me </h3>
+<h3><img src='assets/images/link.png' width="24px"> &nbsp;Connect With Me </h3>
 <a href = 'https://www.linkedin.com/in/skundalwal/'> <img width = '32px' align= 'center' src="assets/images/linkedIn.svg"/></a> 
 <a href = 'https://twitter.com/SKundalwal'> <img width = '32px' align= 'center' src="assets/images/twitter.svg"/></a> 
 <a href = 'https://www.instagram.com/sandeep_kundalwal/'> <img width = '32px' align= 'center' src="assets/images/Instagram.png"/></a>
