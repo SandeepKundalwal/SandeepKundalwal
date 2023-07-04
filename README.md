@@ -9,9 +9,9 @@
   <li>🎓 An enthusiastic CSE student currently doing M.Tech from Indian Institute of Technology, Mandi 🍁</li>
 </ul>
 
-<h3><img src="assets/images/underwork.svg" width="27px"> &nbsp;Current Work</h3> 
+<h3><img src="assets/images/underwork.svg" width="27px"> &nbsp;Currently Working On</h3> 
 <ul style="list-style-type:circle;">
-  <li>Developing a 360-Degree Video Player for VR Headset<a> <img width ='22px' src ='assets/images/360-View.svg'> </a>; Integrating SRANIPAL SDK into HTC VIVE PRO EYE <a> <img width ='22px' src ='assets/images/VRLogo.svg'> </a>.</li>
+<!--   <li>Developing a 360-Degree Video Player for VR Headset<a> <img width ='22px' src ='assets/images/360-View.svg'> </a>; Integrating SRANIPAL SDK into HTC VIVE PRO EYE <a> <img width ='22px' src ='assets/images/VRLogo.svg'> </a>.</li> -->
   <li><a href = 'https://github.com/SKundawal/BlueControl'> BlueControl</a>, an instrument automation software that sends SCPI Commands from a Central Computing Hub to various instruments via Bluetooth.</li>
 </ul>
 
