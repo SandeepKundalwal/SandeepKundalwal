@@ -9,12 +9,12 @@
   <li>🎓 An enthusiastic CSE student currently doing M.Tech from Indian Institute of Technology, Mandi 🍁</li>
 </ul>
 
-<h3><img src="assets/images/currentlyworking.png" width="28px"> &nbsp;Currently Working On</h3> 
-<ul style="list-style-type:circle;">
+<!-- <h3><img src="assets/images/currentlyworking.png" width="28px"> &nbsp;Currently Working On</h3> -->
+<!-- <ul style="list-style-type:circle;"> -->
 <!--   <li>Developing a 360-Degree Video Player for VR Headset<a> <img width ='22px' src ='assets/images/360-View.svg'> </a>; Integrating SRANIPAL SDK into HTC VIVE PRO EYE <a> <img width ='22px' src ='assets/images/VRLogo.svg'> </a>.</li> -->
-  <li><a href= 'https://github.com/SandeepKundalwal/Post-Graduate-Project'> Post Graduate Project</a>, Investigating User Behaviour Towards Phishing Mail Using Eye Gaze Movement.</li>
-  <li><a href = 'https://github.com/SandeepKundalwal/BlueControl'> BlueControl</a>, an instrument automation software that sends SCPI Commands from a Central Computing Hub to various instruments via Bluetooth.</li>
-</ul>
+<!--   <li><a href= 'https://github.com/SandeepKundalwal/Post-Graduate-Project'> Post Graduate Project</a>, Investigating User Behaviour Towards Phishing Mail Using Eye Gaze Movement.</li> -->
+<!--   <li><a href = 'https://github.com/SandeepKundalwal/BlueControl'> BlueControl</a>, an instrument automation software that sends SCPI Commands from a Central Computing Hub to various instruments via Bluetooth.</li> -->
+<!-- </ul> -->
 
 <h3><img src="assets/images/toolsandtechnology.png" width="28px"> &nbsp;Tools & Technologies</h3>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='assets/images/python.svg'> </a>
