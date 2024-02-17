@@ -20,15 +20,17 @@
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='assets/images/python.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='assets/images/java.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='assets/images/javascript.svg'>   </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='assets/images/ReactJs.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='assets/images/MySQL.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=scheme&sort= > <img width ='32px' src ='assets/images/Scheme.svg'> </a>
-<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='assets/images/c.svg'> </a>
+<!-- <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='assets/images/c.svg'> </a> -->
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='assets/images/cpp.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='assets/images/csharp.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=unity&sort= > <img width ='29px' src ='assets/images/unity.svg'> </a> 
   
 
 <h3><img src='assets/images/connectwithme.png' width="28px"> &nbsp;Connect With Me </h3>
-<a href = 'https://www.linkedin.com/in/skundalwal/'> <img width = '32px' align= 'center' src="assets/images/linkedIn.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/SandeepKundalwal/'> <img width = '32px' align= 'center' src="assets/images/linkedIn.svg"/></a> 
 <a href = 'https://twitter.com/SKundalwal'> <img width = '32px' align= 'center' src="assets/images/twitter.svg"/></a> 
 <!-- <a href = 'https://www.instagram.com/sandeep_kundalwal/'> <img width = '32px' align= 'center' src="assets/images/Instagram.png"/></a> -->
 <a href = 'https://leetcode.com/SandeepKundalwal/'> <img width = '32px' align= 'center' src="assets/images/leetcode.png"/></a> 
