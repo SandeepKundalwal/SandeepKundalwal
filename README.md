@@ -11,8 +11,6 @@
 
 
 <h3><img src="assets/images/toolsandtechnology.png" width="28px"> &nbsp;Tools & Technologies</h3>
-
-
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='assets/images/python.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='assets/images/java.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='assets/images/javascript.svg'>   </a>
