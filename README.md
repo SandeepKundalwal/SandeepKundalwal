@@ -14,8 +14,8 @@
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='assets/images/python.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='assets/images/java.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='assets/images/javascript.svg'>   </a>
-<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='assets/images/ReactJs.svg'> </a>
-<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='assets/images/MySQL.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=react&sort= > <img width ='32px' src ='assets/images/ReactJs.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='assets/images/MySQL.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=scheme&sort= > <img width ='32px' src ='assets/images/Scheme.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='assets/images/cpp.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='assets/images/csharp.svg'> </a>
