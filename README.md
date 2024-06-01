@@ -7,7 +7,7 @@
 <ul style="list-style-type:circle;">
   <li>🌐 <a href = 'https://SandeepKundalwal.github.io'> Portfolio </a>  </li>
   <li>📌 Mumbai, Maharashtra </li>
-  <li>🎓 An enthusiastic CSE student currently doing M.Tech from Indian Institute of Technology, Mandi 🍁</li>
+  <li>🎓 Alma Mater: Indian Institute of Technology, Mandi 🍁</li>
 </ul>
 
 
