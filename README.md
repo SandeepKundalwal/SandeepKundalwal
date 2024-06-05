@@ -6,8 +6,9 @@
 <h3><img src="assets/images/aboutme.png" width="25px"> &nbsp;About Me</h3>
 <ul style="list-style-type:circle;">
   <li>🌐 <a href = 'https://SandeepKundalwal.github.io'> Portfolio </a>  </li>
-  <li>📌 Mumbai, Maharashtra </li>
-  <li>🎓 Alma Mater: Indian Institute of Technology, Mandi 🍁</li>
+  <li>💻 Currently working as an Intern@saiafarm. </li>
+<!--   <li>📌 Mumbai, Maharashtra </li> -->
+  <li>🎓 Alma Mater: Indian Institute of Technology, Mandi.🍁</li>
 </ul>
 
 
