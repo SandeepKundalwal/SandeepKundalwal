@@ -6,7 +6,7 @@
 <h3><img src="assets/images/aboutme.png" width="25px"> &nbsp;About Me</h3>
 <ul style="list-style-type:circle;">
   <li>🌐 <a href = 'https://SandeepKundalwal.github.io'> Portfolio. </a>  </li>
-  <li>💻 Software Development Engineer Intern @saiafarm (ITU Copenhagen, Denmark). </li>
+  <li>💻 Intern @saiafarm (ITU Copenhagen, Denmark). </li>
 <!--   <li>📌 Mumbai, Maharashtra </li> -->
   <li>🎓 Alma Mater: Indian Institute of Technology, Mandi.🍁</li>
 </ul>
