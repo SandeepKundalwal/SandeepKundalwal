@@ -5,9 +5,10 @@
 <h1 align="center">Hello Fellow < Developers/ >, I'm Sandeep Kundalwal <img src="https://github.com/SandeepKundalwal/SandeepKundalwal/assets/61798659/9dc52849-7b86-4a39-b595-2bb8d53e8f38" width="30px"></h1>
 <h3><img src="assets/images/aboutme.png" width="25px"> &nbsp;About Me</h3>
 <ul style="list-style-type:circle;">
-  <li>🌐 <a href = 'https://SandeepKundalwal.github.io'> Portfolio </a>  </li>
-  <li>📌 Mumbai, Maharashtra </li>
-  <li>🎓 Alma Mater: Indian Institute of Technology, Mandi 🍁</li>
+  <li>🌐 <a href = 'https://SandeepKundalwal.github.io'> Portfolio. </a>  </li>
+  <li>💻 Intern @saiafarm (ITU Copenhagen, Denmark). </li>
+<!--   <li>📌 Mumbai, Maharashtra </li> -->
+  <li>🎓 Alma Mater: Indian Institute of Technology, Mandi.🍁</li>
 </ul>
 
 
