@@ -6,17 +6,26 @@
 <h3><img src="assets/images/aboutme.png" width="25px"> &nbsp;About Me</h3>
 <ul style="list-style-type:circle;">
   <li>🌐 <a href = 'https://SandeepKundalwal.github.io'> Portfolio. </a>  </li>
-  <li>💻 SWE Intern @ITUCopenhagen. </li>
+  <li>💻 Full Stack Software Engineer @PropertyGuru Group | Ex - SWE Intern @ITUCopenhagen. </li>
 <!--   <li>📌 Mumbai, Maharashtra </li> -->
   <li>🎓 Alma Mater: Indian Institute of Technology, Mandi.🍁</li>
 </ul>
 
 
 <h3><img src="assets/images/toolsandtechnology.png" width="28px"> &nbsp;Tools & Technologies</h3>
-<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='assets/images/java.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=react&sort= > <img width ='32px' src ='assets/images/ReactJs.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=typescript&sort= > <img width ='38px' src ='assets/images/typescript.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=nestjs&sort= > <img width ='31px' src ='assets/images/nestjs.png'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='assets/images/nodejs.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=salesforce&sort= > <img width ='36px' src ='assets/images/salesforce.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=sass&sort= > <img width ='34px' src ='assets/images/sass.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=html&sort= > <img width ='25px' src ='assets/images/html.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=datadog&sort= > <img width ='32px' src ='assets/images/datadog.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=kibana&sort= > <img width ='32px' src ='assets/images/kibana.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=sentry&sort= > <img width ='32px' src ='assets/images/sentry.svg'> </a>
+<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=java&sort= > <img width ='30px' src ='assets/images/java.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=springboot&sort= > <img width ='29px' src ='assets/images/springboot.svg'> </a> 
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='assets/images/MySQL.svg'> </a>
-<a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=react&sort= > <img width ='32px' src ='assets/images/ReactJs.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='assets/images/javascript.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='assets/images/docker.svg'> </a>
 <a href= https://github.com/SandeepKundalwal?tab=repositories&q=&type=&language=fiware&sort= > <img width ='38px' src ='assets/images/fiware.png'> </a>
